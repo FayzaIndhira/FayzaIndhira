@@ -1,6 +1,10 @@
 
 ## Hey 👋, This is Fayza Indhira Pramesti
 
+- I'm a geophysics student🌏
+- I'm interested in learning Python💻
+- My hobby is reading📚
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fayzaindhira__)
 [![Gmail Badge](https://img.shields.io/badge/-fayzaindhira@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fayzaindhira@gmail.com)](mailto:fayzaindhira@gmail.com)
